@@ -1,4 +1,4 @@
-﻿$ErrorActionPreference = "Stop"
+$ErrorActionPreference = "Stop"
 
 $AppDir = Join-Path $env:LOCALAPPDATA "SKY-FF-V2"
 $AppFile = Join-Path $AppDir "SKY-FF-V2-ULTRA-X.ps1"
